@@ -76,4 +76,4 @@ For more information, please contact us at [pt_heptaddc_tbk@outlook.com](mailto:
 
 ---
 
-Thank you for your interest in the Data Collector Organization!
+Thank you for your interest in the Heptad Data Collector's github profile!
